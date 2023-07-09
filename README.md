@@ -33,4 +33,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/DavidOde100/CurrMark/blob/main/LICENSE).
