@@ -1,6 +1,6 @@
 # CurrMark Chrome Extension
 
-![CurrMark Demo]()
+![CurrMark Demo](https://github.com/DavidOde100/CurrMark/blob/main/CurrMark.gif)
 
 ## Description
 
